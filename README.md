@@ -6,6 +6,8 @@ Tooltips are generally hidden and can be missed by users, so it is recommended t
 
 This module makes use of the [Tippy](https://atomiks.github.io/tippyjs/) tooltip library (v6.3.7). 
 
+https://github.com/stadium-software/tooltips/assets/2085324/6e4788f8-7ace-4356-936f-24c2111d17a6
+
 ## Version
 1.0 initial release
 
