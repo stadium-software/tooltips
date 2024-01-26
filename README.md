@@ -66,3 +66,4 @@ tippy("." + className, options);
    3. Options: An object containing additional options as properties (see [Customization](https://atomiks.github.io/tippyjs/v6/customization/) and [All props](https://atomiks.github.io/tippyjs/v6/all-props/))<br>
    Example: { followCursor: true, duration: 1, arrow: false, delay: [1000, 200], hideOnClick: 'toggle' }
 
+![Options](images/Options.png)
