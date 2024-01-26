@@ -63,6 +63,6 @@ tippy("." + className, options);
 2. Complete the input parameters for the "Tooltip" script
    1. ClassName: The class name you just assigned to your control (e.g. "tooltip-button")
    2. Content: The content of the tooptip (you can add HTML here)
-   3. Options: An object containing additional options as properties (see [Customization](https://atomiks.github.io/tippyjs/v6/customization/) and [All props](https://atomiks.github.io/tippyjs/v6/all-props/))
+   3. Options: An object containing additional options as properties (see [Customization](https://atomiks.github.io/tippyjs/v6/customization/) and [All props](https://atomiks.github.io/tippyjs/v6/all-props/))<br>
    Example: { followCursor: true, duration: 1, arrow: false, delay: [1000, 200], hideOnClick: 'toggle' }
 
