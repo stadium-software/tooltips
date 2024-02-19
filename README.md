@@ -38,7 +38,7 @@ https://github.com/stadium-software/tooltips/assets/2085324/6e4788f8-7ace-4356-9
 3. Drag a JavaScript action into the script
 4. Add the Javascript below into the JavaScript code property
 ```javascript
-/* Stadium Script V1.0 */
+/* Stadium Script V1.0 https://github.com/stadium-software/tooltips */
 let className = ~.Parameters.Input.ClassName;
 let content = ~.Parameters.Input.Content;
 let options = ~.Parameters.Input.Options;
