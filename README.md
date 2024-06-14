@@ -67,3 +67,7 @@ tippy("." + className, options);
    Example: { followCursor: true, duration: 1, arrow: false, delay: [1000, 200], hideOnClick: 'toggle' }
 
 ![Options](images/Options.png)
+
+## Known Issues
+1. The module was not designed to work with DataGrid column data, Repeaters and other aynchronously populated controls
+2. When updating control data using a script, the module may need to be reapplied
